@@ -1,0 +1,195 @@
+body{
+  text-align:center;
+margin:0;
+
+  position:relative;
+  background-color:#FFFFF0
+
+
+}
+.cloud{
+  width:300px;
+  height:100px;
+  position:relative;
+  left:400px;
+  top:50px;
+}
+.h1{
+  font-size: 50px;
+  color: Lime;
+
+
+  width:300px;
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+.h2{
+  width:200px;
+  font-size:30px;
+  margin:0 auto 0 auto;
+  font-family: 'Montez', cursive;
+
+
+  color: black;
+}
+
+.lower-cloud{
+  width:300px;
+  height:100px;
+  position:absolute;
+  left:120px;
+
+}
+.background{
+  background-color:Steelblue;
+}
+.mountain{
+  margin:0 auto 0 auto;
+
+
+}
+.skill-row{
+  width:30%;
+  margin:0 auto 0 auto;
+}
+.skills{
+  position:relative;
+  margin:0 auto 0 auto;
+}
+.girl{
+  margin-top:20px;
+  height:200px;
+}
+.change{
+  height:300px;
+
+  width:300px;
+  position:relative;
+  margin-top: 30px;
+}
+.back{
+  background-color:#FFFFF0
+}
+.gif{
+  width:30%;
+  float:left;
+  margin-right: 30px;
+}
+.skill-row{
+  width:50%;
+  position:relative;
+  margin-top:80px;
+  text-align:left;
+  line-height:1.5;
+}
+.cycle{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+
+}
+.debating{
+  width:30%;;
+  float:left;
+  margin-right: 30px;
+  height:130px;
+}
+.gap{
+  margin-top: 80px;
+}
+.skills{
+  font-family: 'Edu TAS Beginner', cursive;
+    margin-bottom: 20px;
+      font-size:30px;
+}
+.intro{
+  font-family: 'Splash', cursive;
+  font-size:50px;
+  position:relative;
+  margin-bottom: 15px;
+
+}
+.text{
+
+  font-size:19px;
+  color:DarkSlateBlue;
+  width:800px;
+  margin:0 auto 0 auto;
+
+}
+.under{
+  text-decoration: underline;
+
+}
+hr{
+  border:dotted #DB7093 6px;
+  border-bottom:none;
+  width: 7%;
+  margin: 50px auto;
+}
+.color{
+  color:RoyalBlue;
+}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:9px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:14px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2b665e;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.gap_1{
+  position:relative;
+  margin-bottom:100px;
+}
+.gap_{
+  margin-top:30px;
+  position:relative;
+  margin-bottom: 15px;
+
+}
+.custom{
+  color:green;
+font-family: 'Montserrat', sans-serif;
+  font-size:25px;
+
+}
+.custom{
+  font-weight: 700;
+}
+.bottom-container{
+  position:relative;
+  top-margin:100px;
+  background-color:#FF7F50;
+  padding: 30px 0 2px;
+}
+a{
+  color:black;
+  text-decoration:none;
+  font-size:30px;
+  font-family: 'Edu TAS Beginner', cursive;
+}
+a:hover{
+  color:#EAF6F6;
+
+}
+.copyright{
+  color:#EAF6F6;
+  padding:20px 0;
+  font-size:.75rem;
+}
